@@ -4,7 +4,7 @@ tic
 %material properties
 E = 2.1; mu = 0.3;
 
-
+%connectivity matrix
 c = [0 0 0;0 0 20;10 0 0;0 15 0];
     
 j = [(c(1,1) - c(4,1)) (c(1,2)-c(4,2)) (c(1,3)-c(4,3));...
