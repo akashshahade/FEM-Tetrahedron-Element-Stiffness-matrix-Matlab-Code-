@@ -1,6 +1,7 @@
 
 clc;clear;
 tic
+%material properties
 E = 2.1; mu = 0.3;
 
 
